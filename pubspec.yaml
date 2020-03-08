@@ -18,6 +18,8 @@ environment:
 
 dependencies:
 
+  location: ^1.4.1
+
   cloud_firestore:
 
   flutter:
